@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Español</title>
+    <link>https://example.org/es/index.html</link>
+    <description>Recent content on Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 19 Sep 2023 11:08:45 +0200</lastBuildDate><atom:link href="https://example.org/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Despliegue</title>
+      <link>https://example.org/es/despliegue/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 10:58:12 +0200</pubDate>
+      <guid>https://example.org/es/despliegue/index.html</guid>
+      <description>Despliegue </description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://example.org/es/personal/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/es/personal/index.html</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Apuntes</title>
+      <link>https://example.org/es/apuntes/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 10:47:50 +0200</pubDate>
+      <guid>https://example.org/es/apuntes/index.html</guid>
+      <description>DWES En este tema estudiaremos desarrollo web
+Introduccion echo &amp;#34;hola&amp;#34;;Acceder a google</description>
+    </item>
+  </channel>
+</rss>

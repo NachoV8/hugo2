@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apuntes on Frances  </title>
+    <link>https://example.org/fr/apuntes/index.html</link>
+    <description>Recent content in Apuntes on Frances  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 19 Sep 2023 10:47:50 +0200</lastBuildDate><atom:link href="https://example.org/fr/apuntes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/fr/apuntes/markdown/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:08:45 +0200</pubDate>
+      <guid>https://example.org/fr/apuntes/markdown/index.html</guid>
+      <description>Apuntes Descargas Pièces jointes datos3.txt (11 o) colores Como poner un título
+#TituloTexto en negrita entre 2 * bold text
+Para poner en cursiva entre _ italicized text
+Lista Para hacer listas ponemos un guión delante Si queremos tabulamos para asi poder hacer una sublista Checkbox Introducimos una x en la casilla que queramos marcar More Tests Hacemos lo mismo si queremos subcasillas Tablas Option Description data path to data files to supply the data that will be passed into templates.</description>
+    </item>
+    <item>
+      <title>Instalacion</title>
+      <link>https://example.org/fr/apuntes/instalacion/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 10:52:28 +0200</pubDate>
+      <guid>https://example.org/fr/apuntes/instalacion/index.html</guid>
+      <description>apache Para instalar apache ejecutamos
+apt-get install apache2Esto creara el servicio apache cuyos ficheros de configuracion los tenemos en</description>
+    </item>
+  </channel>
+</rss>
